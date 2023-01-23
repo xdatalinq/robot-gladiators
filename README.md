@@ -3,15 +3,22 @@
   
   ## Table of Contents
   * [Description](#description)
+  * [Screenshot](#screenshot)
+  * [Live](#Live)
   * [Repository](#repository)
   * [Contact](#contact)
   * [License](#license)
 
   ## Description
-  Basic prompt-based command line game built with:
-  * Javascript
-  * Node.js
-
+  Basic prompt-based game built with:
+  * JavaScript
+  
+  ## Screenshot
+  ![Screenshot from 2023-01-23 13-01-08](https://user-images.githubusercontent.com/89672040/214115312-49c3ce16-77ed-4828-996f-d633d7eb2e83.png)
+  
+  ## Live
+  Live: https://xdatalinq.github.io/robot-gladiators/
+  
   ## Repository
   Repo: https://github.com/xdatalinq/robot-gladiators
   
