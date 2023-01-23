@@ -10,7 +10,7 @@
   * [License](#license)
 
   ## Description
-  Basic prompt-based game built with:
+  Basic prompt-based browser game built with:
   * JavaScript
   
   ## Screenshot
